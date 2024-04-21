@@ -1,4 +1,4 @@
-<h2 align="left">Olá!! Meu nome é Renê e seja bem vindo (a) ao meu Github 🏁</h2>
+<h2 align="center">Olá!! Meu nome é Renê e seja bem vindo (a) ao meu Github 🏁</h2>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/dev.renepsilva/?igsh=MW1raGJjaXk4OXZvcw%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -43,8 +43,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/renepsilva/renepsilva/output/snake.svg" alt="Snake animation" />
 
